@@ -1,0 +1,46 @@
+.btn-danger{
+    color: #1d1d1d;
+    display: inline-block;
+    border-radius: 0;
+    padding: 10px 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    display: flex;
+    flex-flow: row;
+    background-color: brown;
+    color:whitesmoke;
+}
+.btn-success{
+    height: 60px;
+    width:80px;
+    background-color:green;
+    display: inline-block;
+    margin: auto;
+}
+
+.butt{
+    margin: 30px;
+    display:inline-block;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.header,input{
+    box-shadow: 2px;
+    /* background-color: beige; */
+    text-align: center;
+    margin:10px;
+    font-size: 30px;
+}
+
+.some{
+    display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
